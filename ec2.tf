@@ -13,3 +13,17 @@ resource "aws_instance" "web" {
     Name = "HelloWorld"
   }
 }
+
+
+
+
+terraform installation
+aws insatlation
+aws configure
+directory craetion ....change directory
+craeting .tf file
+terraform init
+terraform fmt
+terraform validate
+terraform plan
+taerraform apply
